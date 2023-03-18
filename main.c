@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 void inverter(char vet[]){
     int i, aux, fim, tam = strlen(vet);
 
