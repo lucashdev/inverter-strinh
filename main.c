@@ -34,7 +34,7 @@ int main(){
 
     printf("%s\n", palavra);
     //inverter(palavra);
-    printf("%s\n", palavra);
+    
 
     p = inverter2(palavra);
     printf("%s\n", p);
